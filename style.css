@@ -1,0 +1,50 @@
+body{
+background-color : red;
+ text-align:center;
+  
+}
+img{
+ border-width:3px;
+  border-style:dotted;
+  border-color:blue;
+  border-radius:30px;
+}
+#home{
+background:linear-gradient(#0277BD 0%, #BF360C 100%);
+  padding : 20px;  
+}
+.menu {
+list-style: none;
+top: 0px;
+right: 30px;
+    position: fixed;
+    
+float: right;
+cursor: pointer;
+font-family:cursive;
+    
+}
+.links{
+float: left;
+margin-left: 21px;
+    margin-right: 21px;
+    
+    
+}
+.line {
+height: 4px;
+width: 100px;
+background-color: black;
+margin: 8px auto;
+    
+    
+}
+.goji{
+height: 300px;
+width: 400px;
+    
+}
+
+html{
+scroll-behavior: smooth;
+}
